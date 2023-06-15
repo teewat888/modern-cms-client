@@ -1,24 +1,5 @@
-# Next 13 Tailwind template 
+# Next 13 modern cms 
 
-This is a stand alone Next 13 template with pre-made components that use [Tailwind CSS](tailwindcss.com/). I use this template in my updated [egghead course](). The template comes with the following components:
-
-- Back
-- Centered
-- Content
-- Description
-- Hello
-- LeftDescription
-- LeftGrid
-- List
-- Main
-- PageContainer
-- Pagination
-- PostsContainer
-- PostsMain
-- RightGrid
-- Title
-
-To see the components in the wild, check out a [website](https://modern-cms-prod.vercel.app/) I built with it. 
 
 
 ### Running the template
